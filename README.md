@@ -14,8 +14,7 @@ The project includes the following components:
 - [SQL Queries](#sql-queries)
 - [Java Embedded SQL Program](#java-embedded-sql-program)
 - [Setup Instructions](#setup-instructions)
-- [Usage Instructions](#usage-instructions)
-- [File Structure](#file-structure)
+
 
 ## Database Schema
 
