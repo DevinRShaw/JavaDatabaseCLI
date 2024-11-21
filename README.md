@@ -1,4 +1,4 @@
-# Embedded SQL for PostgreSQL - Database Management Systems
+# Embedded SQL for PostgreSQL
 
 This repository contains an embedded SQL utility designed to work with PostgreSQL JDBC drivers. It demonstrates the use of SQL queries in the context of a relational database for a hypothetical scenario involving suppliers, parts, and cataloging systems.
 
